@@ -1,0 +1,8 @@
+com\prueba\rest\service\TareaServiceImpl.class
+com\prueba\rest\entity\Tarea.class
+com\prueba\rest\dao\TareaDaoImpl.class
+com\prueba\rest\controller\TareaController.class
+com\prueba\rest\dao\ITareaDao.class
+com\prueba\rest\TareasAppApplication.class
+com\prueba\rest\config\SwaggerConfiguration.class
+com\prueba\rest\service\ITareaService.class
